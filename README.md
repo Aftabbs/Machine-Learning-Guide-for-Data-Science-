@@ -60,6 +60,11 @@ The repository is organized as follows:
 
 Feel free to explore the content within each folder. You'll find practical examples, use cases, and PDF resources related to each topic. Whether you're a fellow student looking to revisit your coursework or someone interested in learning about Machine Learning, this repository can be a valuable resource.
 
+## Practice Every Day
+
+To enhance your Machine Learning skills, it's essential to practice regularly. I encourage you to dedicate time each day to revisit the coursework and examples from Day 1. Consistent practice will help you master the concepts and build a strong foundation in Machine Learning.
+
+
 ## License
 
 This repository is licensed under the [MIT License](./LICENSE), which means you can use the materials for personal and educational purposes. Please review the license file for more details.
